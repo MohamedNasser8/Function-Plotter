@@ -35,14 +35,13 @@
  ![alt text](/screen/s3.png)
   ![alt text](/screen/s4.png)
   ![alt text](/screen/s5.png)
- </li>
+
  
- <li> 
+<li> 
  <h4>Plotting Function Result</h4> 
-  ![alt text](/screen/s6.png)
+  <img src="/screen/s6">
  </li>
 </ol>
-
 
   
 
