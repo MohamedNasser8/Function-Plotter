@@ -31,11 +31,11 @@
  </li>
  <li>
   <h4>Max&Min Fields Validations</h4>
- </li> 
+
  ![alt text](/screen/s3.png)
   ![alt text](/screen/s4.png)
   ![alt text](/screen/s5.png)
-
+ </li> 
  
 <li> 
  <h4>Plotting Function Result</h4> 
