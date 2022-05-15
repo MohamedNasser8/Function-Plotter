@@ -39,7 +39,7 @@
  
 <li> 
  <h4>Plotting Function Result</h4> 
-  <img src="/screen/s6">
+  <img src="/screen/s6.png">
  </li>
 </ol>
 
