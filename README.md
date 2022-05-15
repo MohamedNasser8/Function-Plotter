@@ -3,7 +3,17 @@
 
 ![alt text](https://github.com/AhmedLotfy02/Function-Plotter1/blob/main/screenshots/p.jpg)
 
- 
+<h3>Build With : </h3>
+ <ul>
+  <li><a href="https://www.python.org/">Python</a></li>
+  <li><a href="https://build-system.fman.io/pyqt5-tutorial">PyQt5</a></li>
+  <li><a href="https://docs.python.org/3/library/unittest.html">unittest</a></li>
+  <li><a href="https://matplotlib.org/">matplotlib</a></li>
+ </ul>
+
+   
+   
+
 <h2 href="#screenshots">ScreenShots</h2>
 <ol>
  <li>
@@ -13,29 +23,25 @@
 
  </li>
  <li>
-  <h4>Function Field Validations</h4>
+  <h4>Validations</h4>
   
-  ![alt text](https://github.com/AhmedLotfy02/Function-Plotter1/blob/main/screenshots/2.PNG)
-  ![alt text](https://github.com/AhmedLotfy02/Function-Plotter1/blob/main/screenshots/3.PNG)
+  ![alt text](/screen/s1.png)
+  ![alt text](/screen/s1.png)
  </li>
  <li>
   <h4>Max&Min Fields Validations</h4>
   
-  ![alt text](https://github.com/AhmedLotfy02/Function-Plotter1/blob/main/screenshots/4.PNG)
-  ![alt text](https://github.com/AhmedLotfy02/Function-Plotter1/blob/main/screenshots/5.PNG)
-    ![alt text](https://github.com/AhmedLotfy02/Function-Plotter1/blob/main/screenshots/7.PNG)
+ ![alt text](/screen/s1.png)
+  ![alt text](/screen/s1.png)
+  ![alt text](/screen/s1.png)
  </li>
  
  <li> 
  <h4>Plotting Function Result</h4> 
-  <img src="https://github.com/AhmedLotfy02/Function-Plotter1/blob/main/screenshots/6.PNG">
+ ![alt text](/screen/s1.png)
  </li>
 </ol>
 
-<h2>Demo Video</h2>
-<ul>
-<li><a href="https://youtu.be/EjMoccMz57o">Click Here</a></li>
-</ul>
 
   
 
