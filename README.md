@@ -19,7 +19,7 @@
  <li>
   <h4>Program Interface</h4>
   
-  ![alt text](/screen/s1.png)
+  ![alt text](/screen/s9.png)
 
  </li>
  <li>
@@ -27,6 +27,7 @@
   
   ![alt text](/screen/s1.png)
   ![alt text](/screen/s2.png)
+  ![alt text](/screen/s8.png)
  </li>
  <li>
   <h4>Max&Min Fields Validations</h4>
@@ -38,7 +39,7 @@
  
  <li> 
  <h4>Plotting Function Result</h4> 
- ![alt text](/screen/s6.png)
+  ![alt text](/screen/s6.png)
  </li>
 </ol>
 
