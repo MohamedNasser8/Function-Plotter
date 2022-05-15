@@ -26,19 +26,19 @@
   <h4>Validations</h4>
   
   ![alt text](/screen/s1.png)
-  ![alt text](/screen/s1.png)
+  ![alt text](/screen/s2.png)
  </li>
  <li>
   <h4>Max&Min Fields Validations</h4>
   
- ![alt text](/screen/s1.png)
-  ![alt text](/screen/s1.png)
-  ![alt text](/screen/s1.png)
+ ![alt text](/screen/s3.png)
+  ![alt text](/screen/s4.png)
+  ![alt text](/screen/s5.png)
  </li>
  
  <li> 
  <h4>Plotting Function Result</h4> 
- ![alt text](/screen/s1.png)
+ ![alt text](/screen/s6.png)
  </li>
 </ol>
 
